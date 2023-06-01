@@ -42,7 +42,7 @@ JPA'in sağladığı standart class ve interface'ler aşağıdaki gibidir.
 |**@ManyToMany**|Çoka çok ilişki için kullanılır.|
 |**@ManyToOne**|Çoka tek ilişki için kullanılır.|
 |**@OneToMany**|Teke çok ilişki için kullanılır.|
-|**@OneToOne**|Teke çok ilişkide kullanılır.|
+|**@OneToOne**|Teke tek ilişkide kullanılır.|
 |**@JoinColumn**|İlişki sütunlarını ifade etmek için kullanılır.|
 |**@JoinTable**|Many to Many ilişkilerde ilişkiler için ayrı bir tablo tutulması gerekir. Bu tabloyu jointable anotasyonu kullanarak oluşturabiliriz.|
 
